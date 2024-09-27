@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class JavaCrashProvider {
+    String returnNullString() {
+        return null;
+    }
 }
